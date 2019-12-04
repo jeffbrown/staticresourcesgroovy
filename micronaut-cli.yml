@@ -1,0 +1,5 @@
+profile: service
+defaultPackage: staticresourcesgroovy
+---
+testFramework: spock
+sourceLanguage: groovy
